@@ -2,7 +2,7 @@
 import streamlit
 import pandas
 
-streamlit.title('Breakfast favourites')
+streamlit.title('My Diner')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
